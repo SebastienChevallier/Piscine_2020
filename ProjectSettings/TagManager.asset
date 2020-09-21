@@ -8,7 +8,6 @@ TagManager:
   - Destroyer
   - Enemy_Bullet
   - Enemy
-  - Rock
   layers:
   - Default
   - TransparentFX
